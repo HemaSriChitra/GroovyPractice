@@ -1,7 +1,7 @@
 class LargeNum{
 
     static void main(String[] args){
-
+       // creation and definition
         def num=[76,45,22,34,98];
 
         def largestNumber=num.max();
