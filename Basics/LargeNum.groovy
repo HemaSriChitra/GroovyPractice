@@ -9,5 +9,7 @@ class LargeNum{
         println("The largest number is  "+largestNumber);
 
     }
+    //this curly brace denoted to close the main method
 
 }
+//this curly brace denoted to close the whole program 
