@@ -44,7 +44,7 @@ println("Set after adding 'date': $gamesSet")
 
 // Adding elements to a Map
 
-SetMap["d"] = "date"
+gamesMap["d"] = "date"
 
 println("Map after adding 'date': $gamesMap")
 
@@ -53,7 +53,7 @@ println("Map after adding 'date': $gamesMap")
 
 gamesSet.remove("throw ball")
 
-println("Set after removing 'banana': $gamesSet")
+println("Set after removing 'throw ball': $gamesSet")
 
 // Removing elements from a Map
 
