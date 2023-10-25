@@ -4,4 +4,4 @@ class Bus{
           static mapping={
             autowire=100
         }
-}
+} 
